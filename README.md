@@ -15,7 +15,7 @@
 ## Tech Stacks
 
 <ul>
-  <li>Arduino, Raspberry Pi, Embedded Systems, Machine Learning, Deep Learning, AI, Project Management, Business Analytics, 3D Design, Computer Networking</li>
+  <li>Deep Learning, Machine Vision, Arduino, Raspberry Pi, Embedded Systems, Project Management, Business Analytics, 3D Design, Computer Networking</li>
 </ul>
 
 
