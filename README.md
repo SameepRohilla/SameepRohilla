@@ -1,85 +1,49 @@
+<h3>Sameep Rohilla</h3>
 
-<!-- Profile Information -->
-<h3>🌟 SAMEEP ROHILLA 🌟</h3>
+<p><strong>AI Engineer</strong> @ Finvasia &nbsp;·&nbsp; <strong>Founder</strong> @ Akara Labs &nbsp;·&nbsp; 🇮🇳 India</p>
 
-<h4>Profession</h4>
-<ul>
-  <li><strong>AI Student:</strong> Passionate ❤️ Learner</li>
-  <li><strong>Research Intern:</strong> Dedicated ✅ Innovator</li>
-  <li><strong>Tech Enthusiast:</strong> Enthusiastic 🌟 Explorer</li>
-</ul>
-
+<p>I build AI systems that run in production, and hardware that has to survive the real world.</p>
 
 ---
 
-## Tech Stacks
+## What I Do
 
-<ul>
-  <li>Deep Learning, Machine Vision, Arduino, Raspberry Pi, Embedded Systems, Project Management, Business Analytics, 3D Design, Computer Networking</li>
-</ul>
+**AI Engineering (Finvasia)** — I own end-to-end AI systems in production for a fintech environment:
+- Transaction/expense classification at scale — LLM + rule-engine hybrid pipelines
+- Conversational AI — LangGraph-based customer support agents
+- Voice AI — self-hosted LiveKit + SIP telephony for inbound/outbound calling agents
+- Multilingual NLP — translation and span classification across Indian languages
+- Internal HR/L&D assessment platforms
 
+**Hardware & Robotics (Akara Labs)** — a prototyping studio for 3D printing, robotics and deep-tech hardware:
+- Outdoor UGV / autonomous mower platform
+- Wearable AI — scene description on smart glasses + edge compute
+- Design-to-production prototyping, DFM, and short-run manufacturing
+- 🌐 [akaralabs.in](https://akaralabs.in)
 
----
-
-## Personal Info
-
-<ul>
-  <li><strong>Age:</strong> 21</li>
-  <li><strong>Country:</strong> 🇮🇳</li>
-  <li><strong>College:</strong> Chitkara University, Punjab</li>
-</ul>
-
-
----
-
-## About Me
-
-<ul>
-  <li>💫 Currently delving into the realms of AI and Machine Learning</li>
-  <li>⚡ Always ready to innovate and learn!</li>
-  <li>AI & Embedded Systems, the epic journey continues</li>
-  <li>💬 Ask me anything, I am always open to discussions!</li>
-  <li>⚡️ Fun-Fact: I secured seed funding at the age of 20</li>
-</ul>
-
+**Writing** — `#breakthehype`, a series on LinkedIn that separates what AI actually does from what it's sold as.
 
 ---
 
-## Introduction
+## Tech Stack
 
-<p>🚀 Behold! An Enthusiastic AI Student | Research Intern at CURIN | Tech Explorer | Joint Secretary IEEE CIET Student Branch</p>
+| | |
+|---|---|
+| **Languages** | Python, Go, TypeScript, C++ |
+| **AI / ML** | LLM systems, LangGraph, RAG, prompt engineering, evals, machine vision, deep learning |
+| **Voice / Realtime** | LiveKit, SIP, WebRTC, STT/TTS pipelines |
+| **Backend & Infra** | FastAPI, Next.js, PostgreSQL, Docker, GitHub Actions, Proxmox, self-hosted deployments |
+| **Hardware** | Arduino, Raspberry Pi, embedded systems, ROS, 3D design & CAD, 3D printing |
 
-
----
-
-## Professional Journey
-
-<p>💼 Professional Journey: Combining technical knowledge and practical experience in Arduino, Raspberry Pi, and embedded systems, I have embraced the transformative power of AI and machine learning. My journey is marked by a research internship at CURIN and my role as Joint Secretary at IEEE CIET Student Branch. Achieving seed funding at the age of 20 highlights my commitment and innovation in the tech field.</p>
-
-
----
-
-## Awards & Recognition
-
-<p>🏆 Awards & Recognition: Recognized for contributions to tech projects and innovation, I have secured seed funding early in my career and hold a significant position in the IEEE CIET Student Branch, demonstrating my leadership and dedication.</p>
-
+<img src="readme/skills.svg" width="100%" alt="Skills">
 
 ---
 
-## Skills Snapshot
+## Background
 
-<p>🛠️ Skills Alchemy:</p>
-<ul>
-  <li><strong>Languages:</strong> Python, C++, Java</li>
-  <li><strong>Embedded Systems:</strong> Arduino, Raspberry Pi</li>
-  <li><strong>AI & ML:</strong> Machine Learning, Deep Learning, AI Models</li>
-  <li><strong>Networking:</strong> Computer Networking</li>
-  <li><strong>Project Management:</strong> Agile, Scrum</li>
-  <li><strong>Business Analytics:</strong> Data Analysis, Business Intelligence</li>
-  <li><strong>Design:</strong> 3D Design, CAD</li>
-</ul>
+Started in embedded systems and machine vision — including a computer-vision quality-inspection machine built pre-ChatGPT that took two years to hit production reliability. That project set the engineering philosophy I still work by: ship, measure, iterate, and don't confuse a demo with a system.
 
-<img src="readme/skills.svg" width="100%" alt="YouTube YourChannel">
+Earlier: research intern at CURIN, Joint Secretary of the IEEE CIET Student Branch, and seed funding raised at 20.
 
 ---
 
@@ -105,13 +69,11 @@
     </div>
 </div>
 
-
 ---
 
 ## 📋 Badges
 
 [![An image of @SameepRohilla's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/SameepRohilla)](https://holopin.io/@SameepRohilla)
-
 
 ---
 
@@ -120,7 +82,6 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-
 ---
 
 ## 💻 Latest Activities
@@ -128,18 +89,12 @@
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
----
-
-## Next Chapter
-
-<p>🌐 Next Chapter: Legendary Contributions: Armed with a diverse skill set and a drive for innovation, I am ready for the next chapter in my tech journey. Eager to contribute to groundbreaking projects and push the boundaries of AI and machine learning.</p>
-
 
 ---
 
-## Let's Connect!
+## Connect
 
-<p>🤝 Let's Connect! Open to discussions on collaboration, new opportunities, or sharing insights in the tech space. Let's shape the future together! 🚀</p>
+Open to conversations on applied AI in production, robotics, and deep-tech hardware.
 
 [![GitHub followers](https://img.shields.io/github/followers/SameepRohilla.svg?label=Follow)](https://github.com/SameepRohilla?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/SameepRohilla.svg?affiliations=OWNER%2CCOLLABORATOR)](https://github.com/SameepRohilla?tab=followers)
