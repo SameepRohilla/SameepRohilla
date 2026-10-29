@@ -1,6 +1,6 @@
 <h3>Sameep Rohilla</h3>
 
-<p><strong>AI Engineer</strong> @ Finvasia &nbsp;·&nbsp; <strong>Founder</strong> @ Akara Labs &nbsp;·&nbsp; 🇮🇳 India</p>
+<p><strong>AI Engineer</strong> @ Finvasia &nbsp;·&nbsp;  &nbsp;·&nbsp; 🇮🇳 India</p>
 
 <p>I build AI systems that run in production, and hardware that has to survive the real world.</p>
 
