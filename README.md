@@ -15,11 +15,11 @@
 - Multilingual NLP — translation and span classification across Indian languages
 - Internal HR/L&D assessment platforms
 
-**Hardware & Robotics (Akara Labs)** — a prototyping studio for 3D printing, robotics and deep-tech hardware:
+**Hardware & Robotics ** — a prototyping studio for 3D printing, robotics and deep-tech hardware:
 - Outdoor UGV / autonomous mower platform
 - Wearable AI — scene description on smart glasses + edge compute
 - Design-to-production prototyping, DFM, and short-run manufacturing
-- 🌐 [akaralabs.in](https://akaralabs.in)
+- 🌐 
 
 **Writing** — `#breakthehype`, a series on LinkedIn that separates what AI actually does from what it's sold as.
 
